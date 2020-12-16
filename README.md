@@ -4,7 +4,7 @@ In this App, I have performed the CRUD Operation to make a Notes.
 This app is made in PHP so try to run this app with Xampp Server.
 How to run this App:
 i) Download and Extract the Project into Xampp/htdocs folder.
-ii) After extracting, open Xampp Server and start the Apache Server.
+ii) After extracting, open Xampp Server and start the Apache Server and MySQL.
 iii) After starting Apache Server, click on admin button of Xampp Server under Apache Server.
 iv) That's it....Done!
 
