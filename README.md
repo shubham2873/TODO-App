@@ -1,5 +1,6 @@
 # TODO-App
 In this TODO App, we can organize our daily data. We can add our task, list of products, due date of any task etc.
+In this App, I have performed the CRUD Operation to make a Notes.
 This app is made in PHP so try to run this app with Xampp Server.
 How to run this App:
 i) Download and Extract the Project into Xampp/htdocs folder.
